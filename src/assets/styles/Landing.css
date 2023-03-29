@@ -1,0 +1,12 @@
+.h3{
+   display:  flex;
+   ;  
+   background-color: aqua;
+}
+div{
+   display: flex;
+  flex-direction: column;
+  border: 1% rgb(220, 173, 173) solid;
+  background-image: url(../imagenes/fondo.jpeg);
+  align-items: center;
+}
